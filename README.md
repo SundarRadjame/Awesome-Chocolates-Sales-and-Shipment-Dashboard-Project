@@ -7,7 +7,7 @@ It provides clear insights into **financial performance, shipment trends, region
 ---
 
 ## 🖼️ Dashboard Screenshot
-![Awesome Chocolates Dashboard](Screenshot%202024-10-11%20121835.png)
+![Awesome Chocolates Dashboard](Awesome%20Chocolates%20Dashboard%20Screenshot.png)
 
 ---
 
